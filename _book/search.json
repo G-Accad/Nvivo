@@ -1,0 +1,460 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NVivo Course",
+    "section": "",
+    "text": "1 Welcome to the NVivo Course\nThis course is designed to provide you with a comprehensive introduction to NVivo, with a specific focus on working with interview transcripts for qualitative analysis.\nWhether you’re a beginner or someone revisiting NVivo after a break, this tutorial walks you through all the essentials, from opening the software to importing and working with your data.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#who-is-this-tutorial-for",
+    "href": "index.html#who-is-this-tutorial-for",
+    "title": "NVivo Course",
+    "section": "1.1 Who Is This Tutorial For?",
+    "text": "1.1 Who Is This Tutorial For?\n\nStudents or researchers conducting qualitative research\nNVivo users working with interview transcripts, focus groups, or documents\nThose wanting a guided, self-paced learning resource\n\nNo prior experience with NVivo is required.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#what-will-you-learn",
+    "href": "index.html#what-will-you-learn",
+    "title": "NVivo Course",
+    "section": "1.2 What Will You Learn?",
+    "text": "1.2 What Will You Learn?\nBy the end of this course, you’ll know how to:\n\nNavigate the NVivo 14 interface with confidence\nCreate and manage NVivo projects\nCreate documents directly within NVivo for notes or journaling\nPrepare and import transcripts for analysis\nUnderstand best practices for organising qualitative data",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#whats-covered",
+    "href": "index.html#whats-covered",
+    "title": "NVivo Course",
+    "section": "1.3 What’s Covered",
+    "text": "1.3 What’s Covered\nThis course is divided into the following foundational topics:\n\nOpening and setting up NVivo\nUnderstanding the interface\nCreating internal documents\nImporting and preparing transcripts",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#who-created-this-course",
+    "href": "index.html#who-created-this-course",
+    "title": "NVivo Course",
+    "section": "1.4 Who Created This Course?",
+    "text": "1.4 Who Created This Course?\nThis tutorial was developed by the Data Analytics Service at the University of Sheffield.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use-this-tutorial",
+    "href": "index.html#how-to-use-this-tutorial",
+    "title": "NVivo Course",
+    "section": "1.5 How to Use This Tutorial",
+    "text": "1.5 How to Use This Tutorial\nYou can move through the chapters in order or jump to the sections most relevant to your workflow. Each page stands on its own, but they work best as a step-by-step guide.\nTo begin, select a chapter from the sidebar or the NVivo Basics section in the table of contents.\n\nLet’s get started!",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Welcome</span>"
+    ]
+  },
+  {
+    "objectID": "course_overview.html",
+    "href": "course_overview.html",
+    "title": "2  Course Overview",
+    "section": "",
+    "text": "3 NVivo Course: Qualitative Data Analysis with NVivo",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "course_overview.html#chapters",
+    "href": "course_overview.html#chapters",
+    "title": "2  Course Overview",
+    "section": "3.1 Chapters",
+    "text": "3.1 Chapters\n\n3.1.1 1. Introduction\n\nWhat this course is about\nThe challenges of qualitative data analysis\nHow software can support qualitative research\nOverview of how NVivo supports:\n\nData storage\nCoding and hierarchical organisation\nCases and attributes\nMemos and annotations\nQuerying and visualisation\n\n\n\n\n3.1.2 add setup section?\n\n\n3.1.3 2. Getting Started with NVivo\n\nOpening NVivo\nCreating a new project\nUnderstanding sample projects\nSaving and managing your project files\n\n\n\n3.1.4 3. Help and Support in NVivo\n\nUsing NVivo’s built-in Help\nExternal tutorials and resources\nWhere to find community support\n\n\n\n3.1.5 4. Navigating the NVivo Workspace\n\nOverview of the interface\nNavigation View, List View, Detail View\nContext sensitivity: ribbons and tools\nTool ribbons and their colour systems\n\n\n\n3.1.6 5. Working with Files\n\nCreating documents within NVivo\nImporting internal documents\nSupported file types: Word, PDF, Audio, Video, Images, Survey data\n\n\n\n3.1.7 6. Making Descriptions on Pictures\n\nDescribing visual data\nLinking notes to image regions\nUsing descriptive metadata for analysis\n\n\n\n3.1.8 7. Transcribing Audio and Video Files\n\nTranscribing within NVivo\nWorking with transcripts only\nWorking with media only\nNVivo Transcription Services (if applicable to current version)\n\n\n\n3.1.9 8. Notes: Memos and Annotations\n\nWhen to use memos\nLinked vs. unlinked memos\nAnnotations: Adding quick comments\nOrganising your thoughts and reflective writing\n\n\n\n3.1.10 9. Coding: The Core of NVivo\n\nStructural coding\n\nClassifications, Cases, Autocoding\n\nExploratory coding\n\nManual nodes, in-vivo coding, thematic development\n\nTheoretical coding\n\nNode hierarchies, cataloguing, refining codes, team consistency\n\n\n\n\n3.1.11 10. Queries\n\nText searches\nWord frequency\nCoding queries\nMatrix coding\nCrosstabs\nFramework matrices\n\n\n\n3.1.12 11. Going Further\nThis course is designed as a foundation. To continue building your skills with NVivo, consider:\n\n3.1.12.1 Official NVivo Training\nQSR International offers both synchronous and asynchronous tutorials, including a student-discounted certification path.\nhttps://www.qsrinternational.com/nvivo-training\n\n\n3.1.12.2 Books\n\nQualitative Data Analysis with NVivo by Bazeley & Jackson (Sage)\nThe Coding Manual for Qualitative Researchers by Johnny Saldana\nHandling Qualitative Data by Lyn Richards\n\n\n\n3.1.12.3 Video Tutorials\n\nQSR International YouTube Channel\nGraham Gibbs’ YouTube\n\n\n\n3.1.12.4 CAQDAS Project",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Course Overview</span>"
+    ]
+  },
+  {
+    "objectID": "installation.html",
+    "href": "installation.html",
+    "title": "3  Installing NVivo",
+    "section": "",
+    "text": "3.1 About This Version\nThe version currently used at the University of Sheffield is NVivo 14.\nPlease make sure you and any collaborators are working on the same version to avoid compatibility issues.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Installing NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "installation.html#about-this-version",
+    "href": "installation.html#about-this-version",
+    "title": "3  Installing NVivo",
+    "section": "",
+    "text": "⚠️ Projects created in NVivo 14 are not backwards-compatible with earlier versions.\nHowever, older project files (v12 and earlier) can be safely opened in NVivo 14.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Installing NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "installation.html#accessing-nvivo-through-the-university-of-sheffield",
+    "href": "installation.html#accessing-nvivo-through-the-university-of-sheffield",
+    "title": "3  Installing NVivo",
+    "section": "3.2 Accessing NVivo Through the University of Sheffield",
+    "text": "3.2 Accessing NVivo Through the University of Sheffield\nTo request access to NVivo:\n\nGo to https://www.sheffield.ac.uk/software/\nMake sure you’re signed in to MUSE with your university credentials.\nScroll down to NVivo and click on Request NVivo.\n\n\n\n\nRequest NVivo through Software Hub",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Installing NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "installation.html#email-confirmation",
+    "href": "installation.html#email-confirmation",
+    "title": "3  Installing NVivo",
+    "section": "3.3 Email Confirmation",
+    "text": "3.3 Email Confirmation\nYou will receive a confirmation email from IT Services after your request has been processed.\n\n\n\nEmail confirmation",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Installing NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "installation.html#installation-instructions",
+    "href": "installation.html#installation-instructions",
+    "title": "3  Installing NVivo",
+    "section": "3.4 Installation Instructions",
+    "text": "3.4 Installation Instructions\nThere are two paths depending on the type of machine you are using.\n\n3.4.1 A. University-Managed Devices (e.g. YoYo desktop)\nIf you are using a University-managed laptop or a desktop on campus:\n\nOpen the Software Center on your device.\nSearch for and select NVivo 14.\nClick Install.\n\n\n\n\nInstalling from Software Center\n\n\n\n\n\n3.4.2 B. Personal Laptops\nIf you are using your own laptop, follow these steps:\n\nVisit https://lumivero.com/customer-login/\nSign in using your credentials (or create an account).\nDownload the appropriate installer for your system (Windows or Mac).\nUse the license key from the university email during activation.\n\nWe cannot guarantee the exact install process for personal machines, so please refer to Lumivero’s help pages if needed.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Installing NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "installation.html#activating-nvivo",
+    "href": "installation.html#activating-nvivo",
+    "title": "3  Installing NVivo",
+    "section": "3.5 Activating NVivo",
+    "text": "3.5 Activating NVivo\nOnce NVivo is installed and you open it for the first time, you’ll see a NVivo Setup window.\n\nFill out the required fields (marked in red)\nPaste in the license key from your confirmation email\nClick Activate\n\n\n\n\nLicense activation screen",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Installing NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "installation.html#final-setup",
+    "href": "installation.html#final-setup",
+    "title": "3  Installing NVivo",
+    "section": "3.6 Final Setup",
+    "text": "3.6 Final Setup\nOnce activation is complete, you will be asked to fill in your personal details. Complete the fields and press OK to finish setup.\n\n\n\nFinal setup screen\n\n\n\nYou’re now ready to start using NVivo 🎉",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Installing NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/opening.html",
+    "href": "part1/opening.html",
+    "title": "4  Opening NVivo and Creating a Project",
+    "section": "",
+    "text": "4.1 Opening NVivo\nTo open NVivo on Windows, go to the Start Menu, navigate to the QSR folder, and select NVivo 14. Upon launch, you’ll be greeted with a welcome screen.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Opening NVivo and Creating a Project</span>"
+    ]
+  },
+  {
+    "objectID": "part1/opening.html#opening-nvivo",
+    "href": "part1/opening.html#opening-nvivo",
+    "title": "4  Opening NVivo and Creating a Project",
+    "section": "",
+    "text": "Note\n\n\n\nSome options like “Sign In” and “Collaboration Cloud” may not apply to institutional users (e.g., University of Sheffield), and will show a message if not configured.\n\n\n\n4.1.1 Useful Areas on the Start Screen\n\nGetting Started\nThis section includes video tutorials and guides on:\n\nPreparing transcripts for import\nFormatting survey data for NVivo\nConducting thematic analysis\nWriting memos or journals\n\nHelp System\nNVivo uses a question mark (?) icon instead of the word “Help”. Look for this icon throughout the software to access help resources.\nLearn and Connect\nIncludes links to NVivo’s learning materials and social platforms.\nRecent Projects\nA quick-access list of projects you’ve recently worked on.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Opening NVivo and Creating a Project</span>"
+    ]
+  },
+  {
+    "objectID": "part1/opening.html#creating-a-new-project",
+    "href": "part1/opening.html#creating-a-new-project",
+    "title": "4  Opening NVivo and Creating a Project",
+    "section": "4.2 Creating a New Project",
+    "text": "4.2 Creating a New Project\nTo start working in NVivo, you’ll need to create a project file. This file will hold all your: - Interview transcripts - Coding - Annotations - Queries - Reports\n\n4.2.1 Steps\n\nClick the New Project button (white button on the left).\nA dialog box will appear asking you to:\n\nName your project\nChoose a save location\nOptionally, add a description\n\n\nOnce saved, your project will open and you can begin importing data or documents.\n\n\n\n\n\n\nTip\n\n\n\nUse clear, concise project names. For example: qualitative_study_2025.nvp",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Opening NVivo and Creating a Project</span>"
+    ]
+  },
+  {
+    "objectID": "part1/environment.html",
+    "href": "part1/environment.html",
+    "title": "5  The NVivo Interface",
+    "section": "",
+    "text": "5.1 NVivo Environment Overview\nOnce you create or open a project in NVivo, you’ll see the main workspace — a clean layout divided into useful panes, tabs, and ribbons.\nTo give you a proper tour, it’s easier to use a sample project so that the screen contains actual data and features to show.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The NVivo Interface</span>"
+    ]
+  },
+  {
+    "objectID": "part1/environment.html#the-ribbon",
+    "href": "part1/environment.html#the-ribbon",
+    "title": "5  The NVivo Interface",
+    "section": "5.2 The Ribbon",
+    "text": "5.2 The Ribbon\nThe Ribbon in NVivo is the toolbar that runs along the top. It contains all major tools and is grouped into several tabs:\n\n5.2.1 File (Blue Button)\n\nOpens the Project menu, which allows you to save, close, or copy the project.\nOpens a separate screen (not a ribbon).\nUsed occasionally, mostly for file-level operations.\n\n\n\n5.2.2 Home Tab\n\nCentral hub for common actions:\n\nCoding\nRunning queries\nViewing data visualizations\n\n\n\n\n5.2.3 Import Tab\n\nUsed to bring external content into NVivo:\n\nWord, PDF, images, video/audio\nSurvey data (e.g., from Qualtrics)\nBibliographic data (EndNote, Mendeley)\n\n\n\n\n5.2.4 Create Tab\n\nLets you create content within NVivo:\n\nDocuments and memos (basic word processing tools included)\nFramework matrices\nNodes (codes)\n\n\n\n\n\n\n\n\nTip\n\n\n\nYou can write directly in NVivo instead of using Word or Google Docs — great for journaling or annotations.\n\n\n\n\n5.2.5 Explore Tab\n\nAccess searches and exploration tools.\nGo beyond coding with:\n\nWord frequency and text search\nCluster analysis\nSocial network analysis\n\n\n\n\n\n\n\n\nNote\n\n\n\nNVivo’s search and exploration tools have been core to its power since the early **Nud*IST** days.\n\n\n\n\n5.2.6 Share Tab\n\nExport your work to share with others:\n\nReports as Word or Excel\nImages of visualizations\nCodebooks or queries\n\n\nNote: NVivo doesn’t support direct posting to social media or emailing content.\n\n\n5.2.7 Modules Tab\n\nIntegrates with extra NVivo modules:\n\nTranscription service (automated, paid)\nCollaboration Cloud (not currently supported by all institutions)\nMicrosoft OneDrive integration\n\n\n\n\n\n\n\n\nWarning\n\n\n\nAlways check with your institution about data protection before using cloud-based features like Collaboration Cloud.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The NVivo Interface</span>"
+    ]
+  },
+  {
+    "objectID": "part1/environment.html#contextual-ribbons",
+    "href": "part1/environment.html#contextual-ribbons",
+    "title": "5  The NVivo Interface",
+    "section": "5.3 Contextual Ribbons",
+    "text": "5.3 Contextual Ribbons\nContextual ribbons appear based on what you’re working on.\nFor example, if you’re editing a document, you’ll see the Document ribbon with relevant tools. If you’re not in a document, it disappears.\nThis can be confusing — just remember: where you click matters.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The NVivo Interface</span>"
+    ]
+  },
+  {
+    "objectID": "part1/environment.html#top-right-utility-icons",
+    "href": "part1/environment.html#top-right-utility-icons",
+    "title": "5  The NVivo Interface",
+    "section": "5.4 Top-Right Utility Icons",
+    "text": "5.4 Top-Right Utility Icons\nAt the top-right of the NVivo window, you’ll see small icons:\n\nLogin icon – Often non-functional in institutional setups\nSave icon – Save your current project (like other apps)\n\n\nThis completes the visual and functional tour of NVivo’s interface.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>The NVivo Interface</span>"
+    ]
+  },
+  {
+    "objectID": "part1/project.html",
+    "href": "part1/project.html",
+    "title": "6  Creating a Project in NVivo",
+    "section": "",
+    "text": "6.1 About NVivo Projects\nIn NVivo, everything you work on—transcripts, codes, annotations, memos, and queries—is saved within a single project file. Creating a project is the first step before you can begin importing data or doing any analysis.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Creating a Project in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/project.html#version-compatibility",
+    "href": "part1/project.html#version-compatibility",
+    "title": "6  Creating a Project in NVivo",
+    "section": "6.2 Version Compatibility",
+    "text": "6.2 Version Compatibility\nThe University of Sheffield currently uses NVivo 14.\n\n⚠️ Projects created in NVivo 14 are not backwards-compatible with earlier versions.\nHowever, older NVivo projects (v12 and earlier) can be opened in NVivo 14.\n\nEnsure that everyone you collaborate with is using the same version to avoid compatibility issues.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Creating a Project in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/project.html#starting-a-new-project",
+    "href": "part1/project.html#starting-a-new-project",
+    "title": "6  Creating a Project in NVivo",
+    "section": "6.3 Starting a New Project",
+    "text": "6.3 Starting a New Project\nTo begin, open NVivo and click the New Project button on the welcome screen.\nThis opens a setup dialog with several fields to complete.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Creating a Project in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/project.html#project-title-file-name-and-save-location",
+    "href": "part1/project.html#project-title-file-name-and-save-location",
+    "title": "6  Creating a Project in NVivo",
+    "section": "6.4 Project Title, File Name, and Save Location",
+    "text": "6.4 Project Title, File Name, and Save Location\nYou’ll first be prompted to provide a project title. This name appears in the NVivo interface.\nThen, NVivo will auto-generate a file name (e.g., My Project.nvp) and a default save location. You can change these by clicking the Browse button:\n\nChange the directory by navigating to your preferred folder\nChange the file name directly in the file name field\n\n\n💡 Example: Instead of Interviews with Volunteers, you might save your file as volunteers.nvp\n\nNote: Changing the file name does not change the project title—these are independent fields.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Creating a Project in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/project.html#description-and-language",
+    "href": "part1/project.html#description-and-language",
+    "title": "6  Creating a Project in NVivo",
+    "section": "6.5 Description and Language",
+    "text": "6.5 Description and Language\nYou can also add a short description of your project. For example:\n\n“These interviews were conducted in 2024 as part of a qualitative study on student volunteering.”\n\nThen, choose the Text Content Language from the dropdown (e.g., English (UK)).",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Creating a Project in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/project.html#autosave-and-recovery-settings",
+    "href": "part1/project.html#autosave-and-recovery-settings",
+    "title": "6  Creating a Project in NVivo",
+    "section": "6.6 Autosave and Recovery Settings",
+    "text": "6.6 Autosave and Recovery Settings\nAfter clicking Next, you’ll see options for how NVivo should handle saving and backups.\n\nAutosave (saves every ~15 minutes automatically)\nPrompt to Save at regular intervals (e.g., every 30–60 minutes)\n\nYou can change these later in the settings, so don’t worry too much about getting it perfect.\n\n💡 Autosave is recommended if you’re concerned about crashes or data loss.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Creating a Project in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/project.html#finishing-setup",
+    "href": "part1/project.html#finishing-setup",
+    "title": "6  Creating a Project in NVivo",
+    "section": "6.7 Finishing Setup",
+    "text": "6.7 Finishing Setup\nClick Create Project to finish the setup.\nNVivo may offer to give you a tour of the software. You can skip it or explore it later.\n\n📝 Tip: To avoid seeing the tour again, tick “Do not show tour again” at the bottom-left of the window.\n\nYou’re now ready to begin importing your data or creating internal documents in your new NVivo project.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Creating a Project in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/creating_documents.html",
+    "href": "part1/creating_documents.html",
+    "title": "7  Creating Documents in NVivo",
+    "section": "",
+    "text": "7.1 Why Create Documents in NVivo?\nIn most cases, you’ll import transcripts or notes from external files. But there are a few excellent reasons to create documents directly inside NVivo:\nExample log entries:",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Creating Documents in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/creating_documents.html#why-create-documents-in-nvivo",
+    "href": "part1/creating_documents.html#why-create-documents-in-nvivo",
+    "title": "7  Creating Documents in NVivo",
+    "section": "",
+    "text": "Activity Logs: Jot down what you did in each session for future reference or team communication.\nFix Transcripts: Correct transcription errors inside NVivo without re-importing or re-coding.\nAppendix Material: Useful for documenting your research process in a structured way.\n\n\n16 Aug – Imported volunteer interviews from Melbourne  \n19 Aug – First pass of Ken’s interview: initial themes  \n30 Aug – Ran search for “career”, saved query but not results",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Creating Documents in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/creating_documents.html#how-to-create-a-document",
+    "href": "part1/creating_documents.html#how-to-create-a-document",
+    "title": "7  Creating Documents in NVivo",
+    "section": "7.2 How to Create a Document",
+    "text": "7.2 How to Create a Document\nThere are two main ways:\n\n7.2.1 Method 1: Use the Create Ribbon\n\nGo to the Create tab in the Ribbon.\nClick the Document button (page icon).\nThe “New Document” dialog appears.\n\n###️ Method 2: Right-Click in List View\n\nGo to Files in the Navigation View.\nRight-click in the List View and select:\n\nNew File &gt; New Document\n\n\nThis approach is great when the Ribbon isn’t visible or responsive.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Creating Documents in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/creating_documents.html#the-new-document-dialog",
+    "href": "part1/creating_documents.html#the-new-document-dialog",
+    "title": "7  Creating Documents in NVivo",
+    "section": "7.3 The New Document Dialog",
+    "text": "7.3 The New Document Dialog\nYou’ll see two fields:\n\nName – like a filename (e.g., Activity Diary)\nDescription – longer text (e.g., “Short notes on tasks carried out in NVivo during data analysis.”)\n\nThere’s also an Attribute Values tab — this is typically not needed for journal-like documents.\n\n\n\n\n\n\nTip\n\n\n\nKeep a single document as an internal log to track your project’s progress over time.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Creating Documents in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/creating_documents.html#contextual-behavior",
+    "href": "part1/creating_documents.html#contextual-behavior",
+    "title": "7  Creating Documents in NVivo",
+    "section": "7.4 Contextual Behavior",
+    "text": "7.4 Contextual Behavior\nOnce you create or open a document:\n\nThe Ribbon updates with new tabs:\n\nDocument tab\nEdit tab\n\nIf nothing shows in the List View, click Refresh or check the filters.\n\n\n\n\n\n\n\nWarning\n\n\n\nRight-click menus and ribbon options depend on where you last clicked. If things disappear, check your focus!",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Creating Documents in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part1/importing_transcripts.html",
+    "href": "part1/importing_transcripts.html",
+    "title": "8  Importing Interview Transcripts",
+    "section": "",
+    "text": "8.1 Why Import?\nMost researchers transcribe interviews using Word or a transcription service. Rather than copy/paste or retype content into NVivo, you can import multiple transcripts at once — clean, efficient, and avoids rework.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Importing Interview Transcripts</span>"
+    ]
+  },
+  {
+    "objectID": "part1/importing_transcripts.html#recommended-workflow",
+    "href": "part1/importing_transcripts.html#recommended-workflow",
+    "title": "8  Importing Interview Transcripts",
+    "section": "8.2 Recommended Workflow",
+    "text": "8.2 Recommended Workflow\nWe recommend a 3-step process:\n\n8.2.1 1. Prepare NVivo to Receive Transcripts\n\n8.2.1.1 Create a Subfolder\n\nGo to the Files section under Data in the Navigation View.\nCreate a new folder (e.g., Transcripts).\nGive it a clear name and description.\n\nExample: &gt; Folder: Transcripts\n&gt; Description: “Interviews on volunteering experiences”\n\n\n8.2.1.2 Set Up File Classifications (Optional)\nUseful if you want to attach metadata (e.g., gender, role, location) to each transcript file.\n\n\n\n\n8.2.2 2. Prepare Your Transcripts\nThis step makes the import more structured and helps with later analysis.\n\n8.2.2.1 Speaker Identifiers\nStart each speech turn with a label: - Int: Interviewer - PtA, PtB, etc.: Participants\n- Or use first names (with caution re: bias & anonymity)\nInt: Can you tell me about your volunteer role?\nAnna: I started volunteering in 2021...\n\n\n8.2.2.2 Use Heading Styles\nIf your interviews follow a structured protocol, use Word’s Heading 1 / 2 styles for questions or sections. This enables auto-coding by structure.\n\n\n8.2.2.3 Add Timestamps (for Audio Link)\nIf syncing to an audio file, insert timestamps like [00:02:15] at the start of each speaker turn. NVivo can use this to sync transcript and audio.\n\n\n\n\n8.2.3 3. Importing the Documents\n\nNavigate to Files in NVivo.\nClick the Import tab in the Ribbon.\nChoose Documents and select your transcripts from disk.\n\n\nNVivo won’t know your last used folder — navigate to the correct directory manually.\n\nImported documents will appear in your project under the selected folder, ready to code, classify, or query.",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Importing Interview Transcripts</span>"
+    ]
+  },
+  {
+    "objectID": "part1/importing_transcripts.html#wrapping-up",
+    "href": "part1/importing_transcripts.html#wrapping-up",
+    "title": "8  Importing Interview Transcripts",
+    "section": "8.3 Wrapping Up",
+    "text": "8.3 Wrapping Up\nBeing intentional about how you import and format your transcripts gives you cleaner data and smoother analysis later on.\n\n\n\n\n\n\nTip\n\n\n\nOrganize early — future-you will thank you!",
+    "crumbs": [
+      "PART 1 NVivo Basics",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Importing Interview Transcripts</span>"
+    ]
+  },
+  {
+    "objectID": "part8/creating_notes.html",
+    "href": "part8/creating_notes.html",
+    "title": "9  Creating Notes in NVivo",
+    "section": "",
+    "text": "9.1 Why Use Notes in NVivo?\nNVivo is more than a place to store interview transcripts and codes—it’s also a space to capture your reflections, questions, and insights as you work. Creating notes, memos, and annotations helps you document your thinking and track your analysis process.\nNotes in NVivo can take different forms: - Memos: Formal or structured notes about your data, coding, themes, or methodology - Annotations: Quick margin-style notes linked directly to specific text or content\nThese are essential for qualitative transparency, audit trails, and collaboration.",
+    "crumbs": [
+      "PART 8 Notes: Memos and Annotations",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Creating Notes in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part8/creating_notes.html#creating-a-memo",
+    "href": "part8/creating_notes.html#creating-a-memo",
+    "title": "9  Creating Notes in NVivo",
+    "section": "9.2 Creating a Memo",
+    "text": "9.2 Creating a Memo\nTo create a standalone memo in NVivo:\n\nGo to the Create tab on the ribbon.\nClick Memo.\nA new memo window opens—add a title, description, and start typing your content.\n\nYou can format text, use headings, or insert links to other items in your project.\n\nExample memo titles: - “Interview Impressions – Participant A” - “Theme: Belonging & Exclusion” - “Codebook Notes – April 2024”",
+    "crumbs": [
+      "PART 8 Notes: Memos and Annotations",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Creating Notes in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part8/creating_notes.html#linking-a-memo-to-a-source",
+    "href": "part8/creating_notes.html#linking-a-memo-to-a-source",
+    "title": "9  Creating Notes in NVivo",
+    "section": "9.3 Linking a Memo to a Source",
+    "text": "9.3 Linking a Memo to a Source\nYou can link a memo to a document or transcript:\n\nOpen the source\nUse the right-hand panel to select Memo Link\nChoose an existing memo or create a new one\n\nThis helps you keep reflections close to the data they relate to.",
+    "crumbs": [
+      "PART 8 Notes: Memos and Annotations",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Creating Notes in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part8/creating_notes.html#creating-annotations",
+    "href": "part8/creating_notes.html#creating-annotations",
+    "title": "9  Creating Notes in NVivo",
+    "section": "9.4 Creating Annotations",
+    "text": "9.4 Creating Annotations\nAnnotations are like digital margin notes—ideal for quick thoughts or questions as you read or code.\nTo add an annotation:\n\nHighlight the text you want to annotate.\nRight-click and choose New Annotation.\nType your comment in the annotation pane.\n\nThe annotated text will now show a small highlight and link to your note.",
+    "crumbs": [
+      "PART 8 Notes: Memos and Annotations",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Creating Notes in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part8/creating_notes.html#tips-for-using-notes-effectively",
+    "href": "part8/creating_notes.html#tips-for-using-notes-effectively",
+    "title": "9  Creating Notes in NVivo",
+    "section": "9.5 Tips for Using Notes Effectively",
+    "text": "9.5 Tips for Using Notes Effectively\n\nKeep a running “Analysis Diary” memo to track what you did and why\nUse memos to compare cases, codes, or reflect on emerging themes\nDon’t overthink formatting—memo writing should be flexible and intuitive\nUse annotations to ask yourself critical questions (“What does this mean?”, “How does this relate to my theme X?”)",
+    "crumbs": [
+      "PART 8 Notes: Memos and Annotations",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Creating Notes in NVivo</span>"
+    ]
+  },
+  {
+    "objectID": "part8/creating_notes.html#summary",
+    "href": "part8/creating_notes.html#summary",
+    "title": "9  Creating Notes in NVivo",
+    "section": "9.6 Summary",
+    "text": "9.6 Summary\nMemos and annotations are core qualitative tools that help you reflect, record, and think critically about your data. NVivo makes it easy to keep these notes organised and linked to your analysis—all in one place.",
+    "crumbs": [
+      "PART 8 Notes: Memos and Annotations",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Creating Notes in NVivo</span>"
+    ]
+  }
+]

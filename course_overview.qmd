@@ -1,0 +1,115 @@
+---
+title: "Course Overview"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+# NVivo Course: Qualitative Data Analysis with NVivo 
+
+## Chapters
+
+### 1. Introduction
+
+-   What this course is about
+-   The challenges of qualitative data analysis
+-   How software can support qualitative research
+-   Overview of how NVivo supports:
+    -   Data storage
+    -   Coding and hierarchical organisation
+    -   Cases and attributes
+    -   Memos and annotations
+    -   Querying and visualisation
+    
+### add setup section? 
+
+### 2. Getting Started with NVivo
+
+-   Opening NVivo
+-   Creating a new project
+-   Understanding sample projects
+-   Saving and managing your project files
+
+### 3. Help and Support in NVivo
+
+-   Using NVivo’s built-in Help
+-   External tutorials and resources
+-   Where to find community support
+
+### 4. Navigating the NVivo Workspace
+
+-   Overview of the interface
+-   Navigation View, List View, Detail View
+-   Context sensitivity: ribbons and tools
+-   Tool ribbons and their colour systems
+
+### 5. Working with Files
+
+-   Creating documents within NVivo
+-   Importing internal documents
+-   Supported file types: Word, PDF, Audio, Video, Images, Survey data
+
+### 6. Making Descriptions on Pictures
+
+-   Describing visual data
+-   Linking notes to image regions
+-   Using descriptive metadata for analysis
+
+### 7. Transcribing Audio and Video Files
+
+-   Transcribing within NVivo
+-   Working with transcripts only
+-   Working with media only
+-   NVivo Transcription Services (if applicable to current version)
+
+### 8. Notes: Memos and Annotations
+
+-   When to use memos
+-   Linked vs. unlinked memos
+-   Annotations: Adding quick comments
+-   Organising your thoughts and reflective writing
+
+### 9. Coding: The Core of NVivo
+
+-   Structural coding
+    -   Classifications, Cases, Autocoding
+-   Exploratory coding
+    -   Manual nodes, in-vivo coding, thematic development
+-   Theoretical coding
+    -   Node hierarchies, cataloguing, refining codes, team consistency
+
+### 10. Queries
+
+-   Text searches
+-   Word frequency
+-   Coding queries
+-   Matrix coding
+-   Crosstabs
+-   Framework matrices
+
+### 11. Going Further
+
+This course is designed as a foundation. To continue building your skills with NVivo, consider:
+
+#### Official NVivo Training
+
+QSR International offers both synchronous and asynchronous tutorials, including a student-discounted certification path.\
+<https://www.qsrinternational.com/nvivo-training>
+
+#### Books
+
+-   *Qualitative Data Analysis with NVivo* by Bazeley & Jackson (Sage)
+-   *The Coding Manual for Qualitative Researchers* by Johnny Saldana
+-   *Handling Qualitative Data* by Lyn Richards
+
+#### Video Tutorials
+
+-   [QSR International YouTube Channel](https://www.youtube.com/user/QSRInternational)
+-   [Graham Gibbs’ YouTube](https://www.youtube.com/user/GrahamRGibbs)
+
+#### CAQDAS Project
+
+<!-- The University of Surrey offers excellent training and comparison tools:   -->
+
+<!-- <https://www.surrey.ac.uk/computer-assisted-qualitative-data-analysis> -->

@@ -10,9 +10,9 @@ format:
 
 In most cases, you’ll import transcripts or notes from external files. But there are a few excellent reasons to create documents directly inside NVivo:
 
-- 📝 **Activity Logs**: Jot down what you did in each session for future reference or team communication.
-- 🔧 **Fix Transcripts**: Correct transcription errors *inside NVivo* without re-importing or re-coding.
-- 📚 **Appendix Material**: Useful for documenting your research process in a structured way.
+- **Activity Logs**: Jot down what you did in each session for future reference or team communication.
+- **Fix Transcripts**: Correct transcription errors *inside NVivo* without re-importing or re-coding.
+- **Appendix Material**: Useful for documenting your research process in a structured way.
 
 Example log entries:
 
@@ -28,13 +28,13 @@ Example log entries:
 
 There are two main ways:
 
-### 🛠️ Method 1: Use the Create Ribbon
+### Method 1: Use the Create Ribbon
 
 1. Go to the **Create** tab in the Ribbon.
 2. Click the **Document** button (page icon).
 3. The "New Document" dialog appears.
 
-### 🖱️ Method 2: Right-Click in List View
+###️ Method 2: Right-Click in List View
 
 1. Go to **Files** in the Navigation View.
 2. Right-click in the **List View** and select:

@@ -1,0 +1,80 @@
+---
+title: "Creating a Project in NVivo"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## About NVivo Projects
+
+In NVivo, everything you work on—transcripts, codes, annotations, memos, and queries—is saved within a **single project file**. Creating a project is the first step before you can begin importing data or doing any analysis.
+
+------------------------------------------------------------------------
+
+## Version Compatibility
+
+The University of Sheffield currently uses **NVivo 14**.
+
+> ⚠️ Projects created in NVivo 14 are **not backwards-compatible** with earlier versions.\
+> However, older NVivo projects (v12 and earlier) **can be opened** in NVivo 14.
+
+Ensure that everyone you collaborate with is using the **same version** to avoid compatibility issues.
+
+------------------------------------------------------------------------
+
+## Starting a New Project
+
+To begin, open NVivo and click the **New Project** button on the welcome screen.
+
+This opens a setup dialog with several fields to complete.
+
+------------------------------------------------------------------------
+
+## Project Title, File Name, and Save Location
+
+You'll first be prompted to provide a **project title**. This name appears in the NVivo interface.
+
+Then, NVivo will auto-generate a file name (e.g., `My Project.nvp`) and a default save location. You can change these by clicking the **Browse** button:
+
+-   **Change the directory** by navigating to your preferred folder
+-   **Change the file name** directly in the file name field
+
+> 💡 Example: Instead of `Interviews with Volunteers`, you might save your file as `volunteers.nvp`
+
+Note: Changing the file name does **not** change the project title—these are independent fields.
+
+------------------------------------------------------------------------
+
+## Description and Language
+
+You can also add a short **description** of your project. For example:
+
+> “These interviews were conducted in 2024 as part of a qualitative study on student volunteering.”
+
+Then, choose the **Text Content Language** from the dropdown (e.g., **English (UK)**).
+
+------------------------------------------------------------------------
+
+## Autosave and Recovery Settings
+
+After clicking **Next**, you’ll see options for how NVivo should handle saving and backups.
+
+-   **Autosave** (saves every \~15 minutes automatically)
+-   **Prompt to Save** at regular intervals (e.g., every 30–60 minutes)
+
+You can change these later in the settings, so don’t worry too much about getting it perfect.
+
+> 💡 Autosave is recommended if you're concerned about crashes or data loss.
+
+------------------------------------------------------------------------
+
+## Finishing Setup
+
+Click **Create Project** to finish the setup.
+
+NVivo may offer to give you a tour of the software. You can skip it or explore it later.
+
+> 📝 Tip: To avoid seeing the tour again, tick “Do not show tour again” at the bottom-left of the window.
+
+You're now ready to begin importing your data or creating internal documents in your new NVivo project.

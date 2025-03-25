@@ -1,0 +1,75 @@
+---
+title: "Creating Notes in NVivo"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## Why Use Notes in NVivo?
+
+NVivo is more than a place to store interview transcripts and codes—it’s also a space to capture your reflections, questions, and insights as you work. Creating **notes, memos, and annotations** helps you document your thinking and track your analysis process.
+
+Notes in NVivo can take different forms:
+- **Memos**: Formal or structured notes about your data, coding, themes, or methodology
+- **Annotations**: Quick margin-style notes linked directly to specific text or content
+
+These are essential for qualitative transparency, audit trails, and collaboration.
+
+---
+
+## Creating a Memo
+
+To create a standalone memo in NVivo:
+
+1. Go to the **Create** tab on the ribbon.
+2. Click **Memo**.
+3. A new memo window opens—add a **title**, **description**, and start typing your content.
+
+You can format text, use headings, or insert links to other items in your project.
+
+> Example memo titles:
+> - “Interview Impressions – Participant A”
+> - “Theme: Belonging & Exclusion”
+> - “Codebook Notes – April 2024”
+
+---
+
+## Linking a Memo to a Source
+
+You can link a memo to a document or transcript:
+
+- Open the source
+- Use the right-hand panel to select **Memo Link**
+- Choose an existing memo or create a new one
+
+This helps you keep reflections close to the data they relate to.
+
+---
+
+## Creating Annotations
+
+Annotations are like digital margin notes—ideal for quick thoughts or questions as you read or code.
+
+To add an annotation:
+
+1. Highlight the text you want to annotate.
+2. Right-click and choose **New Annotation**.
+3. Type your comment in the annotation pane.
+
+The annotated text will now show a small highlight and link to your note.
+
+---
+
+## Tips for Using Notes Effectively
+
+- Keep a running “Analysis Diary” memo to track what you did and why
+- Use memos to compare cases, codes, or reflect on emerging themes
+- Don’t overthink formatting—memo writing should be flexible and intuitive
+- Use annotations to ask yourself critical questions (“What does this mean?”, “How does this relate to my theme X?”)
+
+---
+
+## Summary
+
+Memos and annotations are core qualitative tools that help you reflect, record, and think critically about your data. NVivo makes it easy to keep these notes organised and linked to your analysis—all in one place.

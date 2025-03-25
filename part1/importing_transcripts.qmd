@@ -16,7 +16,7 @@ Most researchers transcribe interviews using Word or a transcription service. Ra
 
 We recommend a **3-step process**:
 
-### 🧱 1. Prepare NVivo to Receive Transcripts
+### 1. Prepare NVivo to Receive Transcripts
 
 #### Create a Subfolder
 - Go to the **Files** section under **Data** in the Navigation View.
@@ -32,7 +32,7 @@ Useful if you want to attach metadata (e.g., gender, role, location) to each tra
 
 ---
 
-### 📝 2. Prepare Your Transcripts
+### 2. Prepare Your Transcripts
 
 This step makes the import more structured and helps with later analysis.
 
@@ -55,13 +55,13 @@ If syncing to an audio file, insert timestamps like `[00:02:15]` at the start of
 
 ---
 
-### 📂 3. Importing the Documents
+### 3. Importing the Documents
 
 1. Navigate to **Files** in NVivo.
 2. Click the **Import** tab in the Ribbon.
 3. Choose **Documents** and select your transcripts from disk.
 
-> 🔍 NVivo won’t know your last used folder — navigate to the correct directory manually.
+> NVivo won’t know your last used folder — navigate to the correct directory manually.
 
 Imported documents will appear in your project under the selected folder, ready to code, classify, or query.
 

@@ -10,60 +10,55 @@ format:
 
 This course is designed to provide you with a **comprehensive introduction to NVivo**, with a specific focus on working with **interview transcripts** for qualitative analysis.
 
-Whether you're a beginner or someone revisiting NVivo after a break, this tutorial walks you through all the essentials—from opening the software to importing and working with your data.
+Whether you're a beginner or someone revisiting NVivo after a break, this tutorial walks you through all the essentials, from opening the software to importing and working with your data.
 
----
+------------------------------------------------------------------------
 
-## 👥 Who Is This Tutorial For?
+## Who Is This Tutorial For?
 
-- Students or researchers conducting **qualitative research**
-- NVivo users working with **interview transcripts, focus groups, or documents**
-- Anyone new to NVivo or using it in a **university research setting**
-- Those wanting a **guided, self-paced learning resource**
+-   Students or researchers conducting **qualitative research**
+-   NVivo users working with **interview transcripts, focus groups, or documents**
+-   Those wanting a **guided, self-paced learning resource**
 
 No prior experience with NVivo is required.
 
----
+------------------------------------------------------------------------
 
-## 🎯 What Will You Learn?
+## What Will You Learn?
 
 By the end of this course, you’ll know how to:
 
-- Navigate the NVivo 14 interface with confidence
-- Create and manage NVivo projects
-- Create documents directly within NVivo for notes or journaling
-- Prepare and import transcripts for analysis
-- Understand best practices for organizing qualitative data
+-   Navigate the NVivo 14 interface with confidence
+-   Create and manage NVivo projects
+-   Create documents directly within NVivo for notes or journaling
+-   Prepare and import transcripts for analysis
+-   Understand best practices for organising qualitative data
 
----
+------------------------------------------------------------------------
 
-## 📦 What’s Covered
+## What’s Covered
 
 This course is divided into the following foundational topics:
 
-- **Opening and setting up NVivo**
-- **Understanding the interface**
-- **Creating internal documents**
-- **Importing and preparing transcripts**
+-   Opening and setting up NVivo
+-   Understanding the interface
+-   Creating internal documents
+-   Importing and preparing transcripts
 
-Each chapter is concise, task-focused, and easy to follow.
+------------------------------------------------------------------------
 
----
-
-## 🧠 Who Created This Course?
+## Who Created This Course?
 
 This tutorial was developed by the **Data Analytics Service** at the **University of Sheffield**.
 
-We hope it empowers researchers with the tools they need to work confidently with qualitative data.
+------------------------------------------------------------------------
 
----
-
-## 📚 How to Use This Tutorial
+## How to Use This Tutorial
 
 You can move through the chapters in order or jump to the sections most relevant to your workflow. Each page stands on its own, but they work best as a **step-by-step guide**.
 
 To begin, select a chapter from the sidebar or the **NVivo Basics** section in the table of contents.
 
----
+------------------------------------------------------------------------
 
 Let’s get started!

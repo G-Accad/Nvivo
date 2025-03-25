@@ -1,0 +1,89 @@
+---
+title: "Installing NVivo"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## About This Version
+
+The version currently used at the University of Sheffield is **NVivo 14**.
+
+> ⚠️ Projects created in NVivo 14 are **not backwards-compatible** with earlier versions.\
+> However, older project files (v12 and earlier) can be safely opened in NVivo 14.
+
+Please make sure you and any collaborators are working on the **same version** to avoid compatibility issues.
+
+------------------------------------------------------------------------
+
+## Accessing NVivo Through the University of Sheffield
+
+To request access to NVivo:
+
+1.  Go to <https://www.sheffield.ac.uk/software/>
+2.  Make sure you're signed in to MUSE with your university credentials.
+3.  Scroll down to **NVivo** and click on **Request NVivo**.
+
+![Request NVivo through Software Hub](installation_screenshots/Screenshot1.png){fig-align="center" width="283"}
+
+------------------------------------------------------------------------
+
+## Email Confirmation
+
+You will receive a confirmation email from IT Services after your request has been processed.
+
+![Email confirmation](installation_screenshots/Screenshot2.png){fig-align="center" width="518"}
+
+------------------------------------------------------------------------
+
+## Installation Instructions
+
+There are two paths depending on the type of machine you are using.
+
+### A. University-Managed Devices (e.g. YoYo desktop)
+
+If you are using a University-managed laptop or a desktop on campus:
+
+1.  Open the **Software Center** on your device.
+2.  Search for and select **NVivo 14**.
+3.  Click **Install**.
+
+![Installing from Software Center](installation_screenshots/Screenshot3.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+### B. Personal Laptops
+
+If you are using your **own laptop**, follow these steps:
+
+1.  Visit <https://lumivero.com/customer-login/>
+2.  Sign in using your credentials (or create an account).
+3.  Download the appropriate installer for your system (Windows or Mac).
+4.  Use the **license key from the university email** during activation.
+
+We cannot guarantee the exact install process for personal machines, so please refer to Lumivero’s help pages if needed.
+
+------------------------------------------------------------------------
+
+## Activating NVivo
+
+Once NVivo is installed and you open it for the first time, you'll see a **NVivo Setup** window.
+
+-   Fill out the required fields (marked in red)
+-   Paste in the license key from your confirmation email
+-   Click **Activate**
+
+![License activation screen](installation_screenshots/Screenshot4.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+## Final Setup
+
+Once activation is complete, you will be asked to fill in your personal details. Complete the fields and press **OK** to finish setup.
+
+![Final setup screen](installation_screenshots/Screenshot5.png){fig-align="center"}
+
+------------------------------------------------------------------------
+
+You're now ready to start using NVivo 🎉
