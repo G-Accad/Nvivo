@@ -1,0 +1,22 @@
+[
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\n\n1 + 1\n\n[1] 2",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nvivo Tutorial",
+    "section": "",
+    "text": "1 Introduction\nThis is meant to be the introduction page with purpose aim and objectives and who this tutorial is meant for etc\nSee Knuth (1984)\n\n1 + 1\n\n[1] 2\n\n\nTable of Contents : What is Nvivo Set up Chapter 1 Chapter 2 etc\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  }
+]

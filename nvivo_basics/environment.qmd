@@ -1,0 +1,100 @@
+---
+title: "The NVivo Interface"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## NVivo Environment Overview
+
+Once you create or open a project in NVivo, you’ll see the main workspace — a clean layout divided into useful panes, tabs, and ribbons.
+
+To give you a proper tour, it’s easier to use a **sample project** so that the screen contains actual data and features to show.
+
+## The Ribbon
+
+The **Ribbon** in NVivo is the toolbar that runs along the top. It contains all major tools and is grouped into several tabs:
+
+### 📁 File (Blue Button)
+
+- Opens the **Project menu**, which allows you to save, close, or copy the project.
+- Opens a separate screen (not a ribbon).
+- Used occasionally, mostly for file-level operations.
+
+### 🏠 Home Tab
+
+- Central hub for common actions:
+  - Coding
+  - Running queries
+  - Viewing data visualizations
+
+### ⬇️ Import Tab
+
+- Used to bring external content into NVivo:
+  - Word, PDF, images, video/audio
+  - Survey data (e.g., from Qualtrics)
+  - Bibliographic data (EndNote, Mendeley)
+
+### ✏️ Create Tab
+
+- Lets you create content **within NVivo**:
+  - Documents and memos (basic word processing tools included)
+  - Framework matrices
+  - Nodes (codes)
+
+::: {.callout-tip}
+You can write directly in NVivo instead of using Word or Google Docs — great for journaling or annotations.
+:::
+
+### 🔍 Explore Tab
+
+- Access searches and exploration tools.
+- Go beyond coding with:
+  - Word frequency and text search
+  - Cluster analysis
+  - Social network analysis
+
+::: {.callout-note}
+NVivo’s search and exploration tools have been core to its power since the early **Nud*IST** days.
+:::
+
+### 📤 Share Tab
+
+- Export your work to share with others:
+  - Reports as Word or Excel
+  - Images of visualizations
+  - Codebooks or queries
+
+Note: NVivo doesn’t support direct posting to social media or emailing content.
+
+### 🧩 Modules Tab
+
+- Integrates with extra NVivo modules:
+  - **Transcription service** (automated, paid)
+  - **Collaboration Cloud** (not currently supported by all institutions)
+  - **Microsoft OneDrive integration**
+
+::: {.callout-warning}
+Always check with your institution about data protection before using cloud-based features like Collaboration Cloud.
+:::
+
+## 🎯 Contextual Ribbons
+
+Contextual ribbons appear **based on what you're working on**.
+
+For example, if you're editing a document, you’ll see the **Document ribbon** with relevant tools. If you’re not in a document, it disappears.
+
+This can be confusing — just remember: **where you click matters**.
+
+## 🔧 Top-Right Utility Icons
+
+At the top-right of the NVivo window, you’ll see small icons:
+
+- 👤 **Login icon** – Often non-functional in institutional setups
+- 💾 **Save icon** – Save your current project (like other apps)
+
+---
+
+This completes the visual and functional tour of NVivo’s interface.
+

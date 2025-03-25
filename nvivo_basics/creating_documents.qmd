@@ -1,0 +1,74 @@
+---
+title: "Creating Documents in NVivo"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## Why Create Documents in NVivo?
+
+In most cases, you’ll import transcripts or notes from external files. But there are a few excellent reasons to create documents directly inside NVivo:
+
+- 📝 **Activity Logs**: Jot down what you did in each session for future reference or team communication.
+- 🔧 **Fix Transcripts**: Correct transcription errors *inside NVivo* without re-importing or re-coding.
+- 📚 **Appendix Material**: Useful for documenting your research process in a structured way.
+
+Example log entries:
+
+```
+16 Aug – Imported volunteer interviews from Melbourne  
+19 Aug – First pass of Ken’s interview: initial themes  
+30 Aug – Ran search for “career”, saved query but not results  
+```
+
+---
+
+## How to Create a Document
+
+There are two main ways:
+
+### 🛠️ Method 1: Use the Create Ribbon
+
+1. Go to the **Create** tab in the Ribbon.
+2. Click the **Document** button (page icon).
+3. The "New Document" dialog appears.
+
+### 🖱️ Method 2: Right-Click in List View
+
+1. Go to **Files** in the Navigation View.
+2. Right-click in the **List View** and select:
+   - **New File** > **New Document**
+
+This approach is great when the Ribbon isn't visible or responsive.
+
+---
+
+## The New Document Dialog
+
+You'll see two fields:
+
+- **Name** – like a filename (e.g., `Activity Diary`)
+- **Description** – longer text (e.g., _“Short notes on tasks carried out in NVivo during data analysis.”_)
+
+There’s also an **Attribute Values** tab — this is typically **not needed** for journal-like documents.
+
+::: {.callout-tip}
+Keep a single document as an internal log to track your project’s progress over time.
+:::
+
+---
+
+## Contextual Behavior
+
+Once you create or open a document:
+
+- The **Ribbon** updates with new tabs:
+  - `Document` tab
+  - `Edit` tab
+- If nothing shows in the **List View**, click **Refresh** or check the filters.
+
+::: {.callout-warning}
+Right-click menus and ribbon options depend on *where you last clicked*. If things disappear, check your focus!
+:::
+

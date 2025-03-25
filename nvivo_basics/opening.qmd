@@ -1,0 +1,57 @@
+---
+title: "Opening NVivo and Creating a Project"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## Opening NVivo
+
+To open NVivo on Windows, go to the **Start Menu**, navigate to the **QSR folder**, and select **NVivo 14**. Upon launch, you’ll be greeted with a welcome screen.
+
+::: {.callout-note}
+Some options like "Sign In" and "Collaboration Cloud" may not apply to institutional users (e.g., University of Sheffield), and will show a message if not configured.
+:::
+
+### Useful Areas on the Start Screen
+
+- **Getting Started**  
+  This section includes video tutorials and guides on:
+  - Preparing transcripts for import
+  - Formatting survey data for NVivo
+  - Conducting thematic analysis
+  - Writing memos or journals
+
+- **Help System**  
+  NVivo uses a **question mark (?)** icon instead of the word "Help". Look for this icon throughout the software to access help resources.
+
+- **Learn and Connect**  
+  Includes links to NVivo's learning materials and social platforms.
+
+- **Recent Projects**  
+  A quick-access list of projects you’ve recently worked on.
+
+## Creating a New Project
+
+To start working in NVivo, you’ll need to create a **project file**. This file will hold all your:
+- Interview transcripts
+- Coding
+- Annotations
+- Queries
+- Reports
+
+### Steps
+
+1. Click the **New Project** button (white button on the left).
+2. A dialog box will appear asking you to:
+   - **Name** your project
+   - **Choose a save location**
+   - Optionally, add a **description**
+
+Once saved, your project will open and you can begin importing data or documents.
+
+::: {.callout-tip}
+Use clear, concise project names. For example: `qualitative_study_2025.nvp`
+:::
+

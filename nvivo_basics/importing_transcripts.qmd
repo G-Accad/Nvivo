@@ -1,0 +1,77 @@
+---
+title: "Importing Interview Transcripts"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+## Why Import?
+
+Most researchers transcribe interviews using Word or a transcription service. Rather than copy/paste or retype content into NVivo, you can **import multiple transcripts at once** — clean, efficient, and avoids rework.
+
+---
+
+## Recommended Workflow
+
+We recommend a **3-step process**:
+
+### 🧱 1. Prepare NVivo to Receive Transcripts
+
+#### Create a Subfolder
+- Go to the **Files** section under **Data** in the Navigation View.
+- Create a new folder (e.g., **Transcripts**).
+- Give it a clear name and description.
+
+Example:
+> Folder: `Transcripts`  
+> Description: *“Interviews on volunteering experiences”*
+
+#### Set Up File Classifications *(Optional)*
+Useful if you want to attach metadata (e.g., gender, role, location) to each transcript file.
+
+---
+
+### 📝 2. Prepare Your Transcripts
+
+This step makes the import more structured and helps with later analysis.
+
+#### Speaker Identifiers
+Start each speech turn with a label:
+- `Int`: Interviewer
+- `PtA`, `PtB`, etc.: Participants  
+- Or use first names (with caution re: bias & anonymity)
+
+```text
+Int: Can you tell me about your volunteer role?
+Anna: I started volunteering in 2021...
+```
+
+#### Use Heading Styles
+If your interviews follow a structured protocol, use Word’s **Heading 1 / 2** styles for questions or sections. This enables **auto-coding** by structure.
+
+#### Add Timestamps (for Audio Link)
+If syncing to an audio file, insert timestamps like `[00:02:15]` at the start of each speaker turn. NVivo can use this to sync transcript and audio.
+
+---
+
+### 📂 3. Importing the Documents
+
+1. Navigate to **Files** in NVivo.
+2. Click the **Import** tab in the Ribbon.
+3. Choose **Documents** and select your transcripts from disk.
+
+> 🔍 NVivo won’t know your last used folder — navigate to the correct directory manually.
+
+Imported documents will appear in your project under the selected folder, ready to code, classify, or query.
+
+---
+
+## Wrapping Up
+
+Being intentional about how you import and format your transcripts gives you cleaner data and smoother analysis later on.
+
+::: {.callout-tip}
+Organize early — future-you will thank you!
+:::
+

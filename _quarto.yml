@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "NVivo Course"
+  author: "Data Analytics Service"
+  date: last-modified
+  chapters:
+    - index.qmd  # <-- this will appear as "Welcome" and not be numbered
+
+    - part: "PART 1 · NVivo Basics"
+      chapters:
+        - nvivo_basics/opening.qmd
+        - nvivo_basics/environment.qmd
+        - nvivo_basics/creating_documents.qmd
+        - nvivo_basics/importing_transcripts.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
